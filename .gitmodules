@@ -1,0 +1,6 @@
+[submodule "levinswap-v2-core"]
+	path = levinswap-v2-core
+	url = https://github.com/Levinswap/levinswap-v2-core.git
+[submodule "levinswap-v2-periphery"]
+	path = levinswap-v2-periphery
+	url = https://github.com/Levinswap/levinswap-v2-periphery.git
